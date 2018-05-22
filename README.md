@@ -7,6 +7,11 @@
 # 練習 : 標籤式頁面情境演練
 
 ![Xamarin.Forms TabbedPage for Prism7](Images/TabbedPage.png)
+
+# 練習 : 開放資料之手機互動應用練習
+
+![Xamarin.Forms Open Data for Xamarin.Essentials](Images/OpenData.png)
+
 # 練習 : QR Code 的掃描與產生圖片
 
 ![Xamarin.Forms QR Code](Images/QRCode.png)
