@@ -1,12 +1,15 @@
-# Xamarin.Forms Workshop 工作坊
+# Xamarin.Forms Workshop 工作坊 (2018 年版本)
 
 這裡將會整理出在進行 Xamarin.Forms 專案開發的時候，幾個典型的專案開發練習，為了能夠讓學習者可以透過這些主題，進而學習到 Xamarin.Forms 的開發經驗，因此，當您在進行練習開發專案的時候，這些專案需求或者畫面，並不會設計得過於複雜。
 
 在這裡所有的專案，都會採用 Visual Studio 2017 (15.7.2) 與透過 Prism Template Pack (2.0.9) 所產生與建立的專案來進行演練，若有安裝相關的 NuGet 套件，也會使用現在 2018.05.22 時間點的最新套件版本來進行設計；若日後這些 NuGet 套件有新版本推出，而造成您無法根據這些教材逐步進行練習，您可以嘗試安裝現在這個時間點的套件版本。
 
-# 練習 1 : QR Code 的掃描與產生圖片
+# 練習 : 標籤式頁面情境演練
 
-![Xamarin.Forms QR Code](Images\QRCode.png)
+![Xamarin.Forms TabbedPage for Prism7](Images/TabbedPage.png)
+# 練習 : QR Code 的掃描與產生圖片
+
+![Xamarin.Forms QR Code](Images/QRCode.png)
 
 [![I ♥ Xamarin](https://4.bp.blogspot.com/-hS_XgJO3OGg/Wq0Gn0kPU2I/AAAAAAAANKs/G-SXFj-evrE8lGdcicWv7SC3-f6wyi4sgCEwYBhgL/s320/ILoveXamarin.png)](https://mylabtw.blogspot.com)
 
